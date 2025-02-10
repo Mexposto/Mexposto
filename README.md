@@ -13,7 +13,6 @@ I'm a **Fullstack Developer** with a background in architecture and design. Pass
 - 🏨 **The Fancy Box** - A hotel for cats app
 - 🎬 **VideOn** – A movie catalog web app  
 - 📅 **TurnoApp** – An appointment scheduling system
-- 
 
 ## 💡 What I'm working on  
 🔹 Improving my backend skills with TypeScript and database optimization.  
