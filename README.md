@@ -21,6 +21,5 @@ I'm a **Fullstack Developer** with a background in architecture and design. Pass
 
 ## 📫 Let's connect!  
 📍 [LinkedIn](https://www.linkedin.com/in/macarena-exposto)  
-📍 [Portfolio](https://miportfolio.com)  
 📍 [GitHub](https://github.com/Mexposto)  
 
